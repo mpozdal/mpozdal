@@ -1,6 +1,7 @@
 # 💫 About Me:
 🏫 Cracow University of Technology <br>💻 Computer Science | Cybersecurity
 
+[![](https://visitcount.itsvg.in/api?id=mpozdal&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/michał-pożdał-17a7b12a2/) 
@@ -13,10 +14,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=mpozdal&theme=dark&hide_border=false)
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mpozdal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
----
-[![](https://visitcount.itsvg.in/api?id=mpozdal&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
