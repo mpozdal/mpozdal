@@ -18,9 +18,8 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mpozdal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
----
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mpozdal&repo=CertifyLite&theme=dark)](https://github.com/mpozdal/CertifyLite) <br/>
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mpozdal&repo=CertifyLite&theme=dark)](https://github.com/mpozdal/CertifyLite) <br/>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mpozdal&repo=breezy-frontend&theme=dark)](https://github.com/mpozdal/breezy-frontend) <br/>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mpozdal&repo=ZTP_lab1&theme=dark)](https://github.com/mpozdal/ZTP_lab1)
 
