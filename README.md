@@ -1,10 +1,10 @@
 # Hi, I'm Michał
 
-**Junior Software Engineer** at Comarch · Angular & .NET · MSc Cybersecurity @ Cracow University of Technology
+**Junior Software Engineer** at Comarch · Angular & .NET · MSc Cybersecurity (Cracow University of Technology)
 
 I work on a modular ERP (logistics & finance) in a Scrum team — mostly Angular (signals, RxJS, TypeScript), with .NET APIs, SQL and WebSockets when the work crosses the stack.
 
-Outside of work I'm finishing a master's in cybersecurity and shipping side projects around secure systems (ZKML credit scoring, on-chain file integrity, auth).
+I hold an MSc in Cybersecurity. Outside of work I build with blockchain — Solidity smart contracts, Hardhat and Foundry for tooling/tests, and dApps that need real on-chain guarantees (ZKML credit scoring, file integrity on Sepolia).
 
 Portfolio: [pozdaldev.netlify.app](https://pozdaldev.netlify.app)
 
@@ -14,6 +14,7 @@ Portfolio: [pozdaldev.netlify.app](https://pozdaldev.netlify.app)
 
 - **Frontend** — Angular architecture, RxJS / signals, TypeScript, keeping complex screens readable
 - **Backend** — .NET / C# APIs, Entity Framework, SQL, async workflows
+- **Blockchain** — Solidity, Hardhat, Foundry; using Ethereum for projects where verification and immutability matter
 - **Security** — crypto, auth, and building things that don't leak more than they should
 
 ---
@@ -24,6 +25,7 @@ Portfolio: [pozdaldev.netlify.app](https://pozdaldev.netlify.app)
 | :--- | :--- |
 | **Frontend** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
 | **Backend** | ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) |
+| **Blockchain** | ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white) ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black) ![Foundry](https://img.shields.io/badge/Foundry-1C1C1C?style=flat-square&logo=foundry&logoColor=white) |
 | **Data** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
 | **Tools** | ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
 
